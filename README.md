@@ -63,7 +63,7 @@ Developing this system deepened my expertise in several key areas. I honed my ab
 
 ## Demo
 
-You can try the live demo [https://voting.goldenmindsbulacan.com/](https://voting.goldenmindsbulacan.com/)
+You can try the live [demo](https://website-710510e2.fee.xnf.temporary.site) or [https://voting.goldenmindsbulacan.com/](https://voting.goldenmindsbulacan.com/)
 
 ## Contact
 
