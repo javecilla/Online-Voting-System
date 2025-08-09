@@ -33,7 +33,7 @@ Manual voting at Golden Minds Colleges was slow, error-prone, and inaccessible t
 - **Backend**: Laravel for API endpoints, logic, and integrations (GCash, Recaptcha, email).  
 - **Frontend**: jQuery and Bootstrap with real-time WebSocket updates and Chart.js visuals.  
 - **Database**: MySQL with normalized tables and indexes for fast vote tallying.
-- **Deployment**: Hosted on HostGator with Cloudflare for security and performance.
+- **Deployment**: Hosted on HostGator thru CI/CD workflow with Github Action.
 
 Developing this system deepened my expertise in several key areas. I honed my ability to optimize high-traffic database queries, achieving a 30% reduction in response times through efficient indexing and query refactoring. Additionally, I mastered secure API integration particularly with third-party services like GCash by leveraging thorough documentation to ensure robust, maintainable code. This project also led me to adopt unit testing for critical components like vote calculations, enhancing reliability and enabling early detection of edge cases.
 
